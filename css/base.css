@@ -246,7 +246,24 @@ box-shadow: 0 12px 16px rgba(0,0,255,0.3);
         background: url(../imgs/background5.jpg);
         background-size: 100vw 100vh;
         background-repeat: repeat;
+        
     }
-   }
+    .menu {
+        color: #E9DEDE;
+        font-family: 'Montserrat Alternates', sans-serif;
+        text-align: center;
+        position: relative;
+        top: -660px;
+    
+    }
+    .articulo3{
+        color: #fff;
+        font-family: 'Montserrat Alternates', sans-serif;
+        text-align: center;
+        position: relative;
+      top: 1750px;
+    }
+    }
+   
    
 
