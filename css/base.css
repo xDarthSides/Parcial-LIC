@@ -243,7 +243,7 @@ box-shadow: 0 12px 16px rgba(0,0,255,0.3);
 @media screen and (max-width: 480px) {
     body{
         background: coral;
-        background-size: 50vw 80vh;
+        background-size: 100vw 100vh;
         background-repeat: repeat;
     }
    }
